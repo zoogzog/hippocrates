@@ -40,4 +40,4 @@ To mask a desired area of the image select the paintbrush tool and paint over th
 
 To save the information about imported files and masks before closing the application it is necessary to export the database file. This could be done by selecting the Export -> Database file from the menu and specifying the name of the output file.
 
- <img src="https://github.com/zoogzog/hippocrates/tree/master/hippocrates/doc/gui.jpg" alt="Input image" width="374" height="301" border="10" /> 
+ <img src="https://github.com/zoogzog/hippocrates/blob/master/hippocrates/doc/gui.jpg" width="374" height="301" /> 
